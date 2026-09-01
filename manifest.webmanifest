@@ -1,0 +1,1 @@
+{"name":"AI家計簿","short_name":"AI家計簿","description":"会話とレシートで記録する個人用AI家計簿","start_url":"./","scope":"./","display":"standalone","background_color":"#f6f8fc","theme_color":"#4f46e5","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
